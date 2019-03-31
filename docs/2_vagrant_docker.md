@@ -70,6 +70,7 @@ vagrant package
 
 I then upload this `pacakge.box` file to vagrant cloud as a new project, e.g., `mwprcvl/ubuntu_docker`.
 
+The uploaded `.box` is hosted [here](https://app.vagrantup.com/mwprcvl/boxes/ubuntu_docker).
 
 ## Using the new VM
 

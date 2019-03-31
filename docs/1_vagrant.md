@@ -29,6 +29,7 @@ vagrant init mwprcvl/ubuntu_server --box-version 1
 vagrant up
 ```
 
+The uploaded `.box` is hosted [here](https://app.vagrantup.com/mwprcvl/boxes/ubuntu_server).
 
 ## Using the VM
 
@@ -77,4 +78,4 @@ For me, this made the warning go away, at the cost of a long boot time. In some 
 
 ## Summary
 
-I have demonstrated use of Vagrant to manage a VM. I have shown the use of Vagrant Cloud to host VirtualBox images.
+I have demonstrated use of Vagrant to manage a VM. I have shown the use of Vagrant Cloud to host VirtualBox images. 
